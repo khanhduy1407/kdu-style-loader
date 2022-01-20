@@ -1,0 +1,21 @@
+{
+  "name": "kdu-style-loader",
+  "version": "3.0.0",
+  "author": "NKDuy",
+  "description": "Kdu style loader module for webpack",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:khanhduy1407/kdu-style-loader.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "hash-sum": "^1.0.2",
+    "loader-utils": "^1.0.2"
+  },
+  "devDependencies": {
+    "jest": "^18.1.0"
+  }
+}
